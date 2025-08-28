@@ -27,9 +27,9 @@ section, header { scroll-margin-top: 90px; }
   display: grid;
   place-items: center;
 }
-.parallax--hero{ min-height: 85vh; background-image: url("../img/hero.jpg"); }
-.parallax--medicina{ background-image: url("../img/parallax-medicina.jpg"); }
-.parallax--beneficios{ background-image: url("../img/parallax-beneficios.jpg"); }
+.parallax--hero{ min-height: 85vh; background-image: url("img/hero.jpg"); }
+.parallax--medicina{ background-image: url("img/parallax-medicina.jpg"); }
+.parallax--beneficios{ background-image: url("img/parallax-beneficios.jpeg"); }
 
 /* Oscurecer para legibilidad */
 .parallax::before{
